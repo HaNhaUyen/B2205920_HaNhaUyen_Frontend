@@ -66,7 +66,7 @@
       >
         Xóa
       </button>
-      <button type="button" class="ml-2 btn btn-secondary" @click="cancel">
+      <button type="button" class="ml-2 btn btn-danger" @click="cancel">
         Thoát
       </button>
     </div>
